@@ -1,0 +1,19 @@
+{
+  "name": "life-is-hard",
+  "version": "1.0.0",
+  "description": "Light weight ranking system",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/haedaal/life-is-hard.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/haedaal/life-is-hard/issues"
+  },
+  "homepage": "https://github.com/haedaal/life-is-hard#readme"
+}
