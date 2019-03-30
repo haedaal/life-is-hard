@@ -1,7 +1,8 @@
 {
   "name": "life-is-hard",
-<<<<<<< HEAD
   "version": "0.1.0",
+  "description": "Light weight ranking system",
+  "main": "index.js",
   "private": true,
   "dependencies": {
     "@types/jest": "^24.0.11",
@@ -16,34 +17,23 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "test": "react-scripts test",
+    "test": "echo \"Error: no test specified\" && exit 1",
     "eject": "react-scripts eject"
   },
-  "eslintConfig": {
-    "extends": "react-app"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/haedaal/life-is-hard.git"
   },
   "browserslist": [
     ">0.2%",
     "not dead",
     "not ie <= 11",
     "not op_mini all"
-  ]
-=======
-  "version": "1.0.0",
-  "description": "Light weight ranking system",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/haedaal/life-is-hard.git"
-  },
+  ],
   "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/haedaal/life-is-hard/issues"
   },
   "homepage": "https://github.com/haedaal/life-is-hard#readme"
->>>>>>> d5dc3acac7a20eafad6b70534b041bfc779b1f42
 }
